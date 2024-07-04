@@ -1,0 +1,4 @@
+# My experiment's environment, Python 3.11.8，CPU: intel i9-14900
+gradio == 3.50.2
+numpy == 1.26.4
+PIL == 10.2.0

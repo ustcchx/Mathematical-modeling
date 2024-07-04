@@ -1,0 +1,3000 @@
+running loss on train datasets: 1.110360026359558
+epoch 0: acc: on test datasets: 0.5995370370370371
+
+running loss on train datasets: 0.9765563011169434
+epoch 1: acc: on test datasets: 0.6736111111111112
+
+running loss on train datasets: 0.8386521339416504
+epoch 2: acc: on test datasets: 0.6967592592592593
+
+running loss on train datasets: 1.0861353874206543
+epoch 3: acc: on test datasets: 0.7546296296296297
+
+running loss on train datasets: 1.1408919095993042
+epoch 4: acc: on test datasets: 0.8379629629629629
+
+running loss on train datasets: 1.0690733194351196
+epoch 5: acc: on test datasets: 0.8472222222222222
+
+running loss on train datasets: 0.9667268991470337
+epoch 6: acc: on test datasets: 0.8518518518518519
+
+running loss on train datasets: 0.9007554054260254
+epoch 7: acc: on test datasets: 0.8564814814814815
+
+running loss on train datasets: 0.8638637065887451
+epoch 8: acc: on test datasets: 0.8634259259259259
+
+running loss on train datasets: 0.8586177229881287
+epoch 9: acc: on test datasets: 0.8541666666666666
+
+running loss on train datasets: 0.8942089080810547
+epoch 10: acc: on test datasets: 0.8680555555555556
+
+running loss on train datasets: 0.9122564196586609
+epoch 11: acc: on test datasets: 0.8587962962962963
+
+running loss on train datasets: 0.8915547132492065
+epoch 12: acc: on test datasets: 0.8611111111111112
+
+running loss on train datasets: 0.8791100978851318
+epoch 13: acc: on test datasets: 0.8611111111111112
+
+running loss on train datasets: 0.8618975281715393
+epoch 14: acc: on test datasets: 0.8611111111111112
+
+running loss on train datasets: 0.8453506827354431
+epoch 15: acc: on test datasets: 0.8611111111111112
+
+running loss on train datasets: 0.8268515467643738
+epoch 16: acc: on test datasets: 0.8611111111111112
+
+running loss on train datasets: 0.8085257411003113
+epoch 17: acc: on test datasets: 0.8611111111111112
+
+running loss on train datasets: 0.8092138171195984
+epoch 18: acc: on test datasets: 0.8657407407407407
+
+running loss on train datasets: 0.7905333042144775
+epoch 19: acc: on test datasets: 0.8657407407407407
+
+running loss on train datasets: 0.7950557470321655
+epoch 20: acc: on test datasets: 0.8657407407407407
+
+running loss on train datasets: 0.7795398235321045
+epoch 21: acc: on test datasets: 0.8703703703703703
+
+running loss on train datasets: 0.7711414098739624
+epoch 22: acc: on test datasets: 0.8703703703703703
+
+running loss on train datasets: 0.7518123388290405
+epoch 23: acc: on test datasets: 0.8703703703703703
+
+running loss on train datasets: 0.7385885715484619
+epoch 24: acc: on test datasets: 0.8703703703703703
+
+running loss on train datasets: 0.7192569375038147
+epoch 25: acc: on test datasets: 0.8680555555555556
+
+running loss on train datasets: 0.7229650616645813
+epoch 26: acc: on test datasets: 0.8680555555555556
+
+running loss on train datasets: 0.7104340195655823
+epoch 27: acc: on test datasets: 0.8726851851851852
+
+running loss on train datasets: 0.7021405100822449
+epoch 28: acc: on test datasets: 0.8726851851851852
+
+running loss on train datasets: 0.7095768451690674
+epoch 29: acc: on test datasets: 0.875
+
+running loss on train datasets: 0.6735856533050537
+epoch 30: acc: on test datasets: 0.875
+
+running loss on train datasets: 0.6840800642967224
+epoch 31: acc: on test datasets: 0.875
+
+running loss on train datasets: 0.6595856547355652
+epoch 32: acc: on test datasets: 0.875
+
+running loss on train datasets: 0.6380500793457031
+epoch 33: acc: on test datasets: 0.875
+
+running loss on train datasets: 0.6515762209892273
+epoch 34: acc: on test datasets: 0.8796296296296297
+
+running loss on train datasets: 0.6060906052589417
+epoch 35: acc: on test datasets: 0.8796296296296297
+
+running loss on train datasets: 0.6086844801902771
+epoch 36: acc: on test datasets: 0.8796296296296297
+
+running loss on train datasets: 0.5849562287330627
+epoch 37: acc: on test datasets: 0.8819444444444444
+
+running loss on train datasets: 0.5765246152877808
+epoch 38: acc: on test datasets: 0.8819444444444444
+
+running loss on train datasets: 0.5576663613319397
+epoch 39: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.5745438933372498
+epoch 40: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.5355457663536072
+epoch 41: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.5768795013427734
+epoch 42: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.5256996750831604
+epoch 43: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.5525166392326355
+epoch 44: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.5050016641616821
+epoch 45: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.5330472588539124
+epoch 46: acc: on test datasets: 0.8865740740740741
+
+running loss on train datasets: 0.4958980679512024
+epoch 47: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.5032020807266235
+epoch 48: acc: on test datasets: 0.8865740740740741
+
+running loss on train datasets: 0.4824834167957306
+epoch 49: acc: on test datasets: 0.8865740740740741
+
+running loss on train datasets: 0.48478075861930847
+epoch 50: acc: on test datasets: 0.8865740740740741
+
+running loss on train datasets: 0.4796563684940338
+epoch 51: acc: on test datasets: 0.8865740740740741
+
+running loss on train datasets: 0.4714237451553345
+epoch 52: acc: on test datasets: 0.8888888888888888
+
+running loss on train datasets: 0.4772537648677826
+epoch 53: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.4703197181224823
+epoch 54: acc: on test datasets: 0.8888888888888888
+
+running loss on train datasets: 0.45983225107192993
+epoch 55: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.46548014879226685
+epoch 56: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.4516197741031647
+epoch 57: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.4547128975391388
+epoch 58: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4420147240161896
+epoch 59: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.44063514471054077
+epoch 60: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4369022846221924
+epoch 61: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.4322272837162018
+epoch 62: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4302878975868225
+epoch 63: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4300561547279358
+epoch 64: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4325803816318512
+epoch 65: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.43183475732803345
+epoch 66: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.4225914478302002
+epoch 67: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.42176488041877747
+epoch 68: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.41919052600860596
+epoch 69: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.432405561208725
+epoch 70: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4137120842933655
+epoch 71: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.41075149178504944
+epoch 72: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.42290085554122925
+epoch 73: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.41183069348335266
+epoch 74: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.41033899784088135
+epoch 75: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4158022403717041
+epoch 76: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.4078493118286133
+epoch 77: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4101581275463104
+epoch 78: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.40554362535476685
+epoch 79: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.4075932800769806
+epoch 80: acc: on test datasets: 0.8912037037037037
+
+running loss on train datasets: 0.406862735748291
+epoch 81: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.41252395510673523
+epoch 82: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.40815871953964233
+epoch 83: acc: on test datasets: 0.8958333333333334
+
+running loss on train datasets: 0.409248411655426
+epoch 84: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.39940470457077026
+epoch 85: acc: on test datasets: 0.9004629629629629
+
+running loss on train datasets: 0.4091907739639282
+epoch 86: acc: on test datasets: 0.8842592592592593
+
+running loss on train datasets: 0.4044358432292938
+epoch 87: acc: on test datasets: 0.9004629629629629
+
+running loss on train datasets: 0.4097575545310974
+epoch 88: acc: on test datasets: 0.8888888888888888
+
+running loss on train datasets: 0.4057901203632355
+epoch 89: acc: on test datasets: 0.9004629629629629
+
+running loss on train datasets: 0.40869244933128357
+epoch 90: acc: on test datasets: 0.8888888888888888
+
+running loss on train datasets: 0.39660412073135376
+epoch 91: acc: on test datasets: 0.9050925925925926
+
+running loss on train datasets: 0.41187432408332825
+epoch 92: acc: on test datasets: 0.8888888888888888
+
+running loss on train datasets: 0.405408650636673
+epoch 93: acc: on test datasets: 0.9027777777777778
+
+running loss on train datasets: 0.40911057591438293
+epoch 94: acc: on test datasets: 0.8981481481481481
+
+running loss on train datasets: 0.4064434766769409
+epoch 95: acc: on test datasets: 0.9143518518518519
+
+running loss on train datasets: 0.40722575783729553
+epoch 96: acc: on test datasets: 0.9097222222222222
+
+running loss on train datasets: 0.41024723649024963
+epoch 97: acc: on test datasets: 0.9097222222222222
+
+running loss on train datasets: 0.4152984917163849
+epoch 98: acc: on test datasets: 0.9097222222222222
+
+running loss on train datasets: 0.4100736081600189
+epoch 99: acc: on test datasets: 0.9074074074074074
+
+running loss on train datasets: 0.4108918607234955
+epoch 100: acc: on test datasets: 0.9143518518518519
+
+running loss on train datasets: 0.41440510749816895
+epoch 101: acc: on test datasets: 0.9143518518518519
+
+running loss on train datasets: 0.40896618366241455
+epoch 102: acc: on test datasets: 0.9120370370370371
+
+running loss on train datasets: 0.4062245488166809
+epoch 103: acc: on test datasets: 0.9143518518518519
+
+running loss on train datasets: 0.4258767068386078
+epoch 104: acc: on test datasets: 0.9120370370370371
+
+running loss on train datasets: 0.4186108112335205
+epoch 105: acc: on test datasets: 0.9120370370370371
+
+running loss on train datasets: 0.416894793510437
+epoch 106: acc: on test datasets: 0.9050925925925926
+
+running loss on train datasets: 0.4181559681892395
+epoch 107: acc: on test datasets: 0.9097222222222222
+
+running loss on train datasets: 0.42214837670326233
+epoch 108: acc: on test datasets: 0.9097222222222222
+
+running loss on train datasets: 0.40913650393486023
+epoch 109: acc: on test datasets: 0.9097222222222222
+
+running loss on train datasets: 0.4133869707584381
+epoch 110: acc: on test datasets: 0.9143518518518519
+
+running loss on train datasets: 0.41044989228248596
+epoch 111: acc: on test datasets: 0.9120370370370371
+
+running loss on train datasets: 0.4083116352558136
+epoch 112: acc: on test datasets: 0.9143518518518519
+
+running loss on train datasets: 0.4091484546661377
+epoch 113: acc: on test datasets: 0.9143518518518519
+
+running loss on train datasets: 0.40828394889831543
+epoch 114: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.40829789638519287
+epoch 115: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.42325669527053833
+epoch 116: acc: on test datasets: 0.9189814814814815
+
+running loss on train datasets: 0.405665785074234
+epoch 117: acc: on test datasets: 0.9189814814814815
+
+running loss on train datasets: 0.40708795189857483
+epoch 118: acc: on test datasets: 0.9189814814814815
+
+running loss on train datasets: 0.41270118951797485
+epoch 119: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.4026429057121277
+epoch 120: acc: on test datasets: 0.9189814814814815
+
+running loss on train datasets: 0.40513288974761963
+epoch 121: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.39534518122673035
+epoch 122: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.4062345623970032
+epoch 123: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.3976253569126129
+epoch 124: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.3981464207172394
+epoch 125: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.39860162138938904
+epoch 126: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.406575471162796
+epoch 127: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.4005710780620575
+epoch 128: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.39781615138053894
+epoch 129: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.4046459197998047
+epoch 130: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.39890941977500916
+epoch 131: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.4056563973426819
+epoch 132: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.39560434222221375
+epoch 133: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.40731799602508545
+epoch 134: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.3963524401187897
+epoch 135: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.392559289932251
+epoch 136: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.42244207859039307
+epoch 137: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.3916146755218506
+epoch 138: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.4004594683647156
+epoch 139: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.4112912118434906
+epoch 140: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.39951345324516296
+epoch 141: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.39679136872291565
+epoch 142: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.40181246399879456
+epoch 143: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.3948698043823242
+epoch 144: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.40001094341278076
+epoch 145: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.3914656341075897
+epoch 146: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.3887794017791748
+epoch 147: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.387118935585022
+epoch 148: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.3951497972011566
+epoch 149: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.3963715732097626
+epoch 150: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.39178240299224854
+epoch 151: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.38660573959350586
+epoch 152: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.3830512762069702
+epoch 153: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.39623576402664185
+epoch 154: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.3947710394859314
+epoch 155: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.3824736177921295
+epoch 156: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.38797855377197266
+epoch 157: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.3925357460975647
+epoch 158: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.382240355014801
+epoch 159: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.37094390392303467
+epoch 160: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.38610976934432983
+epoch 161: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.39045432209968567
+epoch 162: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.3760058283805847
+epoch 163: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.3826717734336853
+epoch 164: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.3763476312160492
+epoch 165: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.3720546066761017
+epoch 166: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.38200730085372925
+epoch 167: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3738706409931183
+epoch 168: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3834696114063263
+epoch 169: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.36036765575408936
+epoch 170: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.381796658039093
+epoch 171: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.3722604513168335
+epoch 172: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.37921759486198425
+epoch 173: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3829665184020996
+epoch 174: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3872361183166504
+epoch 175: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.47166553139686584
+epoch 176: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.3738221526145935
+epoch 177: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.37233906984329224
+epoch 178: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.3794887661933899
+epoch 179: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.3745272755622864
+epoch 180: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.3735373914241791
+epoch 181: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.37645161151885986
+epoch 182: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.3678586781024933
+epoch 183: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.37343937158584595
+epoch 184: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.3771984279155731
+epoch 185: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.37510108947753906
+epoch 186: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3673217296600342
+epoch 187: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.36697670817375183
+epoch 188: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.3869342803955078
+epoch 189: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.37393122911453247
+epoch 190: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.3698689043521881
+epoch 191: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3589974641799927
+epoch 192: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.3720548152923584
+epoch 193: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.40143927931785583
+epoch 194: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.37299197912216187
+epoch 195: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3891417384147644
+epoch 196: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.37280499935150146
+epoch 197: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.3753226697444916
+epoch 198: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3675967752933502
+epoch 199: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3733632564544678
+epoch 200: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3652004301548004
+epoch 201: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.3880583643913269
+epoch 202: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.35001644492149353
+epoch 203: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.36784952878952026
+epoch 204: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.36894428730010986
+epoch 205: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.3748275637626648
+epoch 206: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.3674107491970062
+epoch 207: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3498586416244507
+epoch 208: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3938598334789276
+epoch 209: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.38742366433143616
+epoch 210: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.38722702860832214
+epoch 211: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.36211299896240234
+epoch 212: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.35635802149772644
+epoch 213: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3589324355125427
+epoch 214: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.36561498045921326
+epoch 215: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.3632352948188782
+epoch 216: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.37973663210868835
+epoch 217: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.36301979422569275
+epoch 218: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.35368070006370544
+epoch 219: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.35766226053237915
+epoch 220: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3837502598762512
+epoch 221: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.35677221417427063
+epoch 222: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.3453987240791321
+epoch 223: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.35470783710479736
+epoch 224: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.3898310363292694
+epoch 225: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3366158604621887
+epoch 226: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.35900408029556274
+epoch 227: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.342110276222229
+epoch 228: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.3470601737499237
+epoch 229: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.3576781451702118
+epoch 230: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.34524887800216675
+epoch 231: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.3503267168998718
+epoch 232: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.3472667634487152
+epoch 233: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3350704610347748
+epoch 234: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.34723010659217834
+epoch 235: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3511239290237427
+epoch 236: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.3608821630477905
+epoch 237: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.360509991645813
+epoch 238: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.3467111587524414
+epoch 239: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.3378583788871765
+epoch 240: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3435631990432739
+epoch 241: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3302525281906128
+epoch 242: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.3435419797897339
+epoch 243: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.4273620843887329
+epoch 244: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3167395293712616
+epoch 245: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.3395618796348572
+epoch 246: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.3441879153251648
+epoch 247: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.3452344238758087
+epoch 248: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.3504934310913086
+epoch 249: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.3363061845302582
+epoch 250: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.34167808294296265
+epoch 251: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.3502081632614136
+epoch 252: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.3540399372577667
+epoch 253: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.3697807192802429
+epoch 254: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.32810211181640625
+epoch 255: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3303539752960205
+epoch 256: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3296937942504883
+epoch 257: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.3285798132419586
+epoch 258: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.31268641352653503
+epoch 259: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.326580286026001
+epoch 260: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3196134865283966
+epoch 261: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.3206586539745331
+epoch 262: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.32954907417297363
+epoch 263: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.3326588571071625
+epoch 264: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.30958613753318787
+epoch 265: acc: on test datasets: 0.9560185185185185
+
+running loss on train datasets: 0.33755871653556824
+epoch 266: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.31056565046310425
+epoch 267: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.3145401179790497
+epoch 268: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.32115989923477173
+epoch 269: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.3229627311229706
+epoch 270: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.31378424167633057
+epoch 271: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.2849314212799072
+epoch 272: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.2867375612258911
+epoch 273: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.2893456518650055
+epoch 274: acc: on test datasets: 0.9560185185185185
+
+running loss on train datasets: 0.304971843957901
+epoch 275: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.3095310926437378
+epoch 276: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.2971353828907013
+epoch 277: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.31590932607650757
+epoch 278: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.28529223799705505
+epoch 279: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.29150915145874023
+epoch 280: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.28058114647865295
+epoch 281: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.27615952491760254
+epoch 282: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.2974815368652344
+epoch 283: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.2581978142261505
+epoch 284: acc: on test datasets: 0.9560185185185185
+
+running loss on train datasets: 0.2961261570453644
+epoch 285: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.28585314750671387
+epoch 286: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.2821090519428253
+epoch 287: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.2900155484676361
+epoch 288: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.2589392066001892
+epoch 289: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.26427391171455383
+epoch 290: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.33532366156578064
+epoch 291: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.28825560212135315
+epoch 292: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.3167751431465149
+epoch 293: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.300563782453537
+epoch 294: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.2864210605621338
+epoch 295: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.2737042307853699
+epoch 296: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.28299951553344727
+epoch 297: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.2701083719730377
+epoch 298: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.2601526379585266
+epoch 299: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.24882455170154572
+epoch 300: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.24835205078125
+epoch 301: acc: on test datasets: 0.9560185185185185
+
+running loss on train datasets: 0.2620246410369873
+epoch 302: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.2410995066165924
+epoch 303: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.25084006786346436
+epoch 304: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.24369192123413086
+epoch 305: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.22978690266609192
+epoch 306: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.24100083112716675
+epoch 307: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.2456856369972229
+epoch 308: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.22831664979457855
+epoch 309: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.2667787969112396
+epoch 310: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.23223644495010376
+epoch 311: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.2157229483127594
+epoch 312: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.21648216247558594
+epoch 313: acc: on test datasets: 0.9583333333333334
+
+running loss on train datasets: 0.253280371427536
+epoch 314: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.23632657527923584
+epoch 315: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.2352375090122223
+epoch 316: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.22729343175888062
+epoch 317: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.2027284801006317
+epoch 318: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.21897399425506592
+epoch 319: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.19996674358844757
+epoch 320: acc: on test datasets: 0.9560185185185185
+
+running loss on train datasets: 0.20311753451824188
+epoch 321: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.21405760943889618
+epoch 322: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.20130100846290588
+epoch 323: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.22435453534126282
+epoch 324: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1905539333820343
+epoch 325: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.21064135432243347
+epoch 326: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.20370547473430634
+epoch 327: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1909523606300354
+epoch 328: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.17604002356529236
+epoch 329: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.19304001331329346
+epoch 330: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.18403497338294983
+epoch 331: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.20350465178489685
+epoch 332: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.18109869956970215
+epoch 333: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.20184355974197388
+epoch 334: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.17063885927200317
+epoch 335: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.19026222825050354
+epoch 336: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.18815338611602783
+epoch 337: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.15880614519119263
+epoch 338: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.17932605743408203
+epoch 339: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.18901751935482025
+epoch 340: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.18544445931911469
+epoch 341: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1692735105752945
+epoch 342: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.16983231902122498
+epoch 343: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.17203427851200104
+epoch 344: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.15288874506950378
+epoch 345: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.15763576328754425
+epoch 346: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.15779177844524384
+epoch 347: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.17639979720115662
+epoch 348: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.17229661345481873
+epoch 349: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.17579886317253113
+epoch 350: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1648891568183899
+epoch 351: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.17944049835205078
+epoch 352: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.15677222609519958
+epoch 353: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.18712526559829712
+epoch 354: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.1756623089313507
+epoch 355: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.14821204543113708
+epoch 356: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.17727449536323547
+epoch 357: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.15738701820373535
+epoch 358: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.15365594625473022
+epoch 359: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1610604226589203
+epoch 360: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.13857904076576233
+epoch 361: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.15943068265914917
+epoch 362: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.13961166143417358
+epoch 363: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1413118839263916
+epoch 364: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.15405093133449554
+epoch 365: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1582868993282318
+epoch 366: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1849932074546814
+epoch 367: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.37586545944213867
+epoch 368: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.3979257345199585
+epoch 369: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.31442779302597046
+epoch 370: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.22585143148899078
+epoch 371: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.20881906151771545
+epoch 372: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.18843534588813782
+epoch 373: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.18269750475883484
+epoch 374: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.17669036984443665
+epoch 375: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19272732734680176
+epoch 376: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.15739093720912933
+epoch 377: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.15427562594413757
+epoch 378: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1620904505252838
+epoch 379: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1559465080499649
+epoch 380: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19336751103401184
+epoch 381: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.16567416489124298
+epoch 382: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.15014436841011047
+epoch 383: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.1946873664855957
+epoch 384: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.16226652264595032
+epoch 385: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.15683983266353607
+epoch 386: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13674598932266235
+epoch 387: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13974213600158691
+epoch 388: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.18506723642349243
+epoch 389: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19345340132713318
+epoch 390: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.1431870013475418
+epoch 391: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1450495570898056
+epoch 392: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1662369668483734
+epoch 393: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.16895908117294312
+epoch 394: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.152849942445755
+epoch 395: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.14709803462028503
+epoch 396: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.14680872857570648
+epoch 397: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.139585942029953
+epoch 398: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.15448477864265442
+epoch 399: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.14830897748470306
+epoch 400: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.14164617657661438
+epoch 401: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.13605335354804993
+epoch 402: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.13906334340572357
+epoch 403: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.12923206388950348
+epoch 404: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.13275998830795288
+epoch 405: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.13882498443126678
+epoch 406: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.14749766886234283
+epoch 407: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.134128600358963
+epoch 408: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.12208958715200424
+epoch 409: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1326962411403656
+epoch 410: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.12278763949871063
+epoch 411: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1252860724925995
+epoch 412: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.1423175185918808
+epoch 413: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.1310553252696991
+epoch 414: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.14429017901420593
+epoch 415: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.12517964839935303
+epoch 416: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.1256847232580185
+epoch 417: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.12670256197452545
+epoch 418: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.14095403254032135
+epoch 419: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.14275100827217102
+epoch 420: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19676321744918823
+epoch 421: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.15594027936458588
+epoch 422: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.12818503379821777
+epoch 423: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.7010676264762878
+epoch 424: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.6447389721870422
+epoch 425: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.45552706718444824
+epoch 426: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.39149442315101624
+epoch 427: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3616957366466522
+epoch 428: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.3002590835094452
+epoch 429: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.270905077457428
+epoch 430: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.25057128071784973
+epoch 431: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.24223656952381134
+epoch 432: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.2265184223651886
+epoch 433: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.21178971230983734
+epoch 434: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.21824662387371063
+epoch 435: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19921556115150452
+epoch 436: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19025443494319916
+epoch 437: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.20146000385284424
+epoch 438: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1931888610124588
+epoch 439: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.17609235644340515
+epoch 440: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1897362470626831
+epoch 441: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19458439946174622
+epoch 442: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.16342857480049133
+epoch 443: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1583169549703598
+epoch 444: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.16806098818778992
+epoch 445: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.17392924427986145
+epoch 446: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.15547209978103638
+epoch 447: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.14648523926734924
+epoch 448: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.14000816643238068
+epoch 449: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1449190229177475
+epoch 450: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.14654020965099335
+epoch 451: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13938595354557037
+epoch 452: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13235491514205933
+epoch 453: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13989968597888947
+epoch 454: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1431843638420105
+epoch 455: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.13409323990345
+epoch 456: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.14280229806900024
+epoch 457: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13049519062042236
+epoch 458: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.11986413598060608
+epoch 459: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.15904518961906433
+epoch 460: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.1231069415807724
+epoch 461: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11766884475946426
+epoch 462: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.13952788710594177
+epoch 463: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.21707886457443237
+epoch 464: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 1.044737696647644
+epoch 465: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.6352807879447937
+epoch 466: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.37649664282798767
+epoch 467: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.2788018584251404
+epoch 468: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.22709327936172485
+epoch 469: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.21685391664505005
+epoch 470: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19572830200195312
+epoch 471: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.18284274637699127
+epoch 472: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1705373227596283
+epoch 473: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.16279193758964539
+epoch 474: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.15630370378494263
+epoch 475: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.16752555966377258
+epoch 476: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.1488562524318695
+epoch 477: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.14084455370903015
+epoch 478: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1388498991727829
+epoch 479: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1555159091949463
+epoch 480: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.14175134897232056
+epoch 481: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.14615212380886078
+epoch 482: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.14074170589447021
+epoch 483: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13276569545269012
+epoch 484: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1431284099817276
+epoch 485: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.1423792541027069
+epoch 486: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1510007679462433
+epoch 487: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.12597069144248962
+epoch 488: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.12572932243347168
+epoch 489: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.15723817050457
+epoch 490: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.13415920734405518
+epoch 491: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.129432812333107
+epoch 492: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.12312783300876617
+epoch 493: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.12799687683582306
+epoch 494: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11820641160011292
+epoch 495: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.11752022802829742
+epoch 496: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10774914175271988
+epoch 497: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.11643218249082565
+epoch 498: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.11380809545516968
+epoch 499: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.10903333127498627
+epoch 500: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.1497431993484497
+epoch 501: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10788433998823166
+epoch 502: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10996311902999878
+epoch 503: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.1100442111492157
+epoch 504: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10377086699008942
+epoch 505: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.13190720975399017
+epoch 506: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.5423920154571533
+epoch 507: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.6281642317771912
+epoch 508: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.2951001822948456
+epoch 509: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.22247309982776642
+epoch 510: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19802337884902954
+epoch 511: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.22436189651489258
+epoch 512: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.16765165328979492
+epoch 513: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.16297829151153564
+epoch 514: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1434226930141449
+epoch 515: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.13944345712661743
+epoch 516: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.14176926016807556
+epoch 517: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.17993462085723877
+epoch 518: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13401632010936737
+epoch 519: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.15933671593666077
+epoch 520: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.14354804158210754
+epoch 521: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.15443778038024902
+epoch 522: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.16895323991775513
+epoch 523: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.15255504846572876
+epoch 524: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.14291785657405853
+epoch 525: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.11372633278369904
+epoch 526: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.11437638103961945
+epoch 527: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1060592532157898
+epoch 528: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.11123989522457123
+epoch 529: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.14111009240150452
+epoch 530: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.15825849771499634
+epoch 531: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.1333366334438324
+epoch 532: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.1395634412765503
+epoch 533: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.11945759505033493
+epoch 534: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.11108547449111938
+epoch 535: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.12261133641004562
+epoch 536: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.11760950088500977
+epoch 537: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10146514326334
+epoch 538: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.11225521564483643
+epoch 539: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.10516718029975891
+epoch 540: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11185743659734726
+epoch 541: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1355847418308258
+epoch 542: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.176069974899292
+epoch 543: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.12520404160022736
+epoch 544: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.11501730978488922
+epoch 545: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09332641959190369
+epoch 546: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.09949028491973877
+epoch 547: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.10699625313282013
+epoch 548: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.0843023955821991
+epoch 549: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.1118694394826889
+epoch 550: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08857555687427521
+epoch 551: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.12246982008218765
+epoch 552: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.1007530689239502
+epoch 553: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.09265357255935669
+epoch 554: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.17985457181930542
+epoch 555: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.10340845584869385
+epoch 556: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10426799207925797
+epoch 557: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.10417648404836655
+epoch 558: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09177742153406143
+epoch 559: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10770601779222488
+epoch 560: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09266459196805954
+epoch 561: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.10230761021375656
+epoch 562: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09821638464927673
+epoch 563: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.08344051986932755
+epoch 564: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.08559848368167877
+epoch 565: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 1.7233914136886597
+epoch 566: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.8902125954627991
+epoch 567: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.44930189847946167
+epoch 568: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.32643863558769226
+epoch 569: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.3006986975669861
+epoch 570: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.2537354826927185
+epoch 571: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.2302364856004715
+epoch 572: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.2276521474123001
+epoch 573: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.21215437352657318
+epoch 574: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.19139713048934937
+epoch 575: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.19522632658481598
+epoch 576: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.19349944591522217
+epoch 577: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.17084385454654694
+epoch 578: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.17740871012210846
+epoch 579: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.16941341757774353
+epoch 580: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.18725979328155518
+epoch 581: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1566743552684784
+epoch 582: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1812799572944641
+epoch 583: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.16988280415534973
+epoch 584: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1470819115638733
+epoch 585: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.17718861997127533
+epoch 586: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.16183823347091675
+epoch 587: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.1338576376438141
+epoch 588: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.12698447704315186
+epoch 589: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.13486267626285553
+epoch 590: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1278475672006607
+epoch 591: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.12570010125637054
+epoch 592: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.12022292613983154
+epoch 593: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.12514111399650574
+epoch 594: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.12040673196315765
+epoch 595: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.14610427618026733
+epoch 596: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.14033794403076172
+epoch 597: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.11666399240493774
+epoch 598: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11309120059013367
+epoch 599: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13539782166481018
+epoch 600: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.12099678814411163
+epoch 601: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.10558736324310303
+epoch 602: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.11782130599021912
+epoch 603: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10833645612001419
+epoch 604: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.11403878033161163
+epoch 605: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.12564364075660706
+epoch 606: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.11673115193843842
+epoch 607: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.1020580604672432
+epoch 608: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.11807627230882645
+epoch 609: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.12657411396503448
+epoch 610: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.12495803087949753
+epoch 611: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.10357233881950378
+epoch 612: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10612282902002335
+epoch 613: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13879890739917755
+epoch 614: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11199420690536499
+epoch 615: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09624801576137543
+epoch 616: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10585431754589081
+epoch 617: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09237759560346603
+epoch 618: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09993123263120651
+epoch 619: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10541583597660065
+epoch 620: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08280646055936813
+epoch 621: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.15751932561397552
+epoch 622: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.10328927636146545
+epoch 623: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.08920155465602875
+epoch 624: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.10725563764572144
+epoch 625: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10157635062932968
+epoch 626: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10405055433511734
+epoch 627: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10586249083280563
+epoch 628: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11225076764822006
+epoch 629: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.13100546598434448
+epoch 630: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09592408686876297
+epoch 631: acc: on test datasets: 0.9560185185185185
+
+running loss on train datasets: 0.11095540225505829
+epoch 632: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09956037998199463
+epoch 633: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09631825983524323
+epoch 634: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.10080057382583618
+epoch 635: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1063552275300026
+epoch 636: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10070570558309555
+epoch 637: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.140653595328331
+epoch 638: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.1362684667110443
+epoch 639: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10316121578216553
+epoch 640: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09297680854797363
+epoch 641: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.11334733664989471
+epoch 642: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.08862005174160004
+epoch 643: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.11092948168516159
+epoch 644: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.22827745974063873
+epoch 645: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.12697210907936096
+epoch 646: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.13411512970924377
+epoch 647: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.11121337115764618
+epoch 648: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.1182367205619812
+epoch 649: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10817141085863113
+epoch 650: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.09481661021709442
+epoch 651: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.11751695722341537
+epoch 652: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.1148964911699295
+epoch 653: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.12042493373155594
+epoch 654: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.08861337602138519
+epoch 655: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.10228794068098068
+epoch 656: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08525435626506805
+epoch 657: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10494178533554077
+epoch 658: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.08233998715877533
+epoch 659: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.08947067707777023
+epoch 660: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.10786144435405731
+epoch 661: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.09655655920505524
+epoch 662: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.107697993516922
+epoch 663: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.11049792170524597
+epoch 664: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.1074463278055191
+epoch 665: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.09543518722057343
+epoch 666: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.1014646366238594
+epoch 667: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.11553463339805603
+epoch 668: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.12717674672603607
+epoch 669: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09879134595394135
+epoch 670: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.097092404961586
+epoch 671: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.10997982323169708
+epoch 672: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.08650395274162292
+epoch 673: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.08472629636526108
+epoch 674: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.10641545057296753
+epoch 675: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.08800715208053589
+epoch 676: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.19383634626865387
+epoch 677: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.11447356641292572
+epoch 678: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.10693886876106262
+epoch 679: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.08640725910663605
+epoch 680: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.07711825519800186
+epoch 681: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09421582520008087
+epoch 682: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.17410928010940552
+epoch 683: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.11456897854804993
+epoch 684: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09963632375001907
+epoch 685: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09601942449808121
+epoch 686: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.09467920660972595
+epoch 687: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.17560189962387085
+epoch 688: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.18677057325839996
+epoch 689: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.3433617949485779
+epoch 690: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.13098706305027008
+epoch 691: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08268441259860992
+epoch 692: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.09346269071102142
+epoch 693: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09428279846906662
+epoch 694: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.16952089965343475
+epoch 695: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.12416732311248779
+epoch 696: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.09517711400985718
+epoch 697: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.11064726114273071
+epoch 698: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.07405529916286469
+epoch 699: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.0847649872303009
+epoch 700: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.09541506320238113
+epoch 701: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.11848196387290955
+epoch 702: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09256862103939056
+epoch 703: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09246044605970383
+epoch 704: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08936291188001633
+epoch 705: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.09058354049921036
+epoch 706: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.1089555099606514
+epoch 707: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.09912315011024475
+epoch 708: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.08868908882141113
+epoch 709: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10127894580364227
+epoch 710: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09367294609546661
+epoch 711: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09926888346672058
+epoch 712: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.07253876328468323
+epoch 713: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.07608179748058319
+epoch 714: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.11494523286819458
+epoch 715: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.12161789834499359
+epoch 716: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.0833849310874939
+epoch 717: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09995049238204956
+epoch 718: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.08714678883552551
+epoch 719: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.13698451220989227
+epoch 720: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.11709007620811462
+epoch 721: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09769509732723236
+epoch 722: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.13410498201847076
+epoch 723: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.19946575164794922
+epoch 724: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10082576423883438
+epoch 725: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.12140141427516937
+epoch 726: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.0958242118358612
+epoch 727: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08611220866441727
+epoch 728: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10486756265163422
+epoch 729: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.09656569361686707
+epoch 730: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.10673737525939941
+epoch 731: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08711747825145721
+epoch 732: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09422773122787476
+epoch 733: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09163881838321686
+epoch 734: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.11651760339736938
+epoch 735: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.0772390365600586
+epoch 736: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.12015141546726227
+epoch 737: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.11290763318538666
+epoch 738: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.08300267159938812
+epoch 739: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.07602526247501373
+epoch 740: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09028507024049759
+epoch 741: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.0760258287191391
+epoch 742: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.12214928865432739
+epoch 743: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.07722572982311249
+epoch 744: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.08099988102912903
+epoch 745: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.07642479240894318
+epoch 746: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.07935052365064621
+epoch 747: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.08322660624980927
+epoch 748: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.0839550718665123
+epoch 749: acc: on test datasets: 0.9027777777777778
+
+running loss on train datasets: 0.11751843988895416
+epoch 750: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.10641078650951385
+epoch 751: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.10679607093334198
+epoch 752: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10024695098400116
+epoch 753: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.10634399205446243
+epoch 754: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.08492712676525116
+epoch 755: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09847920387983322
+epoch 756: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.17367707192897797
+epoch 757: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.1182752400636673
+epoch 758: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.08686260879039764
+epoch 759: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09722152352333069
+epoch 760: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.10201431810855865
+epoch 761: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.1174916923046112
+epoch 762: acc: on test datasets: 0.9560185185185185
+
+running loss on train datasets: 0.08703158050775528
+epoch 763: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10335783660411835
+epoch 764: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09765937179327011
+epoch 765: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.08658479154109955
+epoch 766: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.15076470375061035
+epoch 767: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.28587114810943604
+epoch 768: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.16553983092308044
+epoch 769: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.21161994338035583
+epoch 770: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.0996083989739418
+epoch 771: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.12906785309314728
+epoch 772: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.13639254868030548
+epoch 773: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.10490261018276215
+epoch 774: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.10638518631458282
+epoch 775: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11744183301925659
+epoch 776: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09119559079408646
+epoch 777: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.09423378854990005
+epoch 778: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09694916754961014
+epoch 779: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10394713282585144
+epoch 780: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09616227447986603
+epoch 781: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09944384545087814
+epoch 782: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.10012389719486237
+epoch 783: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11181093752384186
+epoch 784: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.2959568202495575
+epoch 785: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.20742389559745789
+epoch 786: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.13255447149276733
+epoch 787: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.14212489128112793
+epoch 788: acc: on test datasets: 0.9166666666666666
+
+running loss on train datasets: 0.1562085896730423
+epoch 789: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.10189993679523468
+epoch 790: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.1261712908744812
+epoch 791: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.1376827359199524
+epoch 792: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.1343674659729004
+epoch 793: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.10365352779626846
+epoch 794: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.0869203507900238
+epoch 795: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.11288680881261826
+epoch 796: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.1042122095823288
+epoch 797: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.10890759527683258
+epoch 798: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.12838619947433472
+epoch 799: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.10189048945903778
+epoch 800: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.12783671915531158
+epoch 801: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.1460125744342804
+epoch 802: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08811584860086441
+epoch 803: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09469839185476303
+epoch 804: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09315270185470581
+epoch 805: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09289726614952087
+epoch 806: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.0864812433719635
+epoch 807: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.08919191360473633
+epoch 808: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.07885415107011795
+epoch 809: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.08211648464202881
+epoch 810: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09230808913707733
+epoch 811: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.08668714016675949
+epoch 812: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.091560497879982
+epoch 813: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09472865611314774
+epoch 814: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.14045263826847076
+epoch 815: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.4517624080181122
+epoch 816: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.38144922256469727
+epoch 817: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.22704581916332245
+epoch 818: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.18463557958602905
+epoch 819: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.16735856235027313
+epoch 820: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.13378147780895233
+epoch 821: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.12988856434822083
+epoch 822: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.11049653589725494
+epoch 823: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09985467791557312
+epoch 824: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10051244497299194
+epoch 825: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09827058762311935
+epoch 826: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.11539644002914429
+epoch 827: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09686954319477081
+epoch 828: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.13497976958751678
+epoch 829: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.1086726039648056
+epoch 830: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.1302873194217682
+epoch 831: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.14529544115066528
+epoch 832: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.10840744525194168
+epoch 833: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09512123465538025
+epoch 834: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.1070309579372406
+epoch 835: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.10241526365280151
+epoch 836: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.09501209855079651
+epoch 837: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08752812445163727
+epoch 838: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09164562821388245
+epoch 839: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09937267005443573
+epoch 840: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.0900391936302185
+epoch 841: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.1336572915315628
+epoch 842: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.09443853795528412
+epoch 843: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.10838554054498672
+epoch 844: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.08196155726909637
+epoch 845: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08992397040128708
+epoch 846: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.09617428481578827
+epoch 847: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.10255034267902374
+epoch 848: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.0918576717376709
+epoch 849: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10213883966207504
+epoch 850: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.08960939943790436
+epoch 851: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09413492679595947
+epoch 852: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.083301842212677
+epoch 853: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.10162383317947388
+epoch 854: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.08198049664497375
+epoch 855: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09571755677461624
+epoch 856: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.11594096571207047
+epoch 857: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.1195175051689148
+epoch 858: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.09213755279779434
+epoch 859: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08930440247058868
+epoch 860: acc: on test datasets: 0.9537037037037037
+
+running loss on train datasets: 0.09339378774166107
+epoch 861: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.08503678441047668
+epoch 862: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.10150565207004547
+epoch 863: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09811560064554214
+epoch 864: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09602542221546173
+epoch 865: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.12507444620132446
+epoch 866: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.09855275601148605
+epoch 867: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.10074995458126068
+epoch 868: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.11894351243972778
+epoch 869: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09304231405258179
+epoch 870: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.11374572664499283
+epoch 871: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.0834282785654068
+epoch 872: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.11222799122333527
+epoch 873: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.313809871673584
+epoch 874: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.16001789271831512
+epoch 875: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.11391545087099075
+epoch 876: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08029472827911377
+epoch 877: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.08848816901445389
+epoch 878: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.10242782533168793
+epoch 879: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08597559481859207
+epoch 880: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.08925749361515045
+epoch 881: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09060011059045792
+epoch 882: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.08778955042362213
+epoch 883: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.0876876637339592
+epoch 884: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09487809240818024
+epoch 885: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09307876229286194
+epoch 886: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09500708431005478
+epoch 887: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.0815584659576416
+epoch 888: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.10885421931743622
+epoch 889: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09291121363639832
+epoch 890: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.08948477357625961
+epoch 891: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09273578971624374
+epoch 892: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.10562826693058014
+epoch 893: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08512312173843384
+epoch 894: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.11760501563549042
+epoch 895: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.08531522750854492
+epoch 896: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.08287182450294495
+epoch 897: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.09502178430557251
+epoch 898: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.11980003118515015
+epoch 899: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.09649330377578735
+epoch 900: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09405738860368729
+epoch 901: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.14069974422454834
+epoch 902: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.16913819313049316
+epoch 903: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.0864376574754715
+epoch 904: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.08672694861888885
+epoch 905: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08867041766643524
+epoch 906: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.09847104549407959
+epoch 907: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08991110324859619
+epoch 908: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09219277650117874
+epoch 909: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09258067607879639
+epoch 910: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09345783293247223
+epoch 911: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08124332129955292
+epoch 912: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.0851655825972557
+epoch 913: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.08686874806880951
+epoch 914: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09398870915174484
+epoch 915: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08877874910831451
+epoch 916: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.08333033323287964
+epoch 917: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.08175255358219147
+epoch 918: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.11486229300498962
+epoch 919: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.07913914322853088
+epoch 920: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.12353397905826569
+epoch 921: acc: on test datasets: 0.9189814814814815
+
+running loss on train datasets: 0.27076587080955505
+epoch 922: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.09781745076179504
+epoch 923: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.10593535006046295
+epoch 924: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.12189330160617828
+epoch 925: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.09911030530929565
+epoch 926: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.08267618715763092
+epoch 927: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.07903284579515457
+epoch 928: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.07638025283813477
+epoch 929: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09196756780147552
+epoch 930: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.1468275785446167
+epoch 931: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09724579751491547
+epoch 932: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.08327186107635498
+epoch 933: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.0821763426065445
+epoch 934: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09413555264472961
+epoch 935: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.09055259823799133
+epoch 936: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.0957658439874649
+epoch 937: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.09407179802656174
+epoch 938: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.08791464567184448
+epoch 939: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.09194356948137283
+epoch 940: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09087754786014557
+epoch 941: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.11221492290496826
+epoch 942: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09556684643030167
+epoch 943: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.10444936156272888
+epoch 944: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09289149194955826
+epoch 945: acc: on test datasets: 0.9513888888888888
+
+running loss on train datasets: 0.09110738337039948
+epoch 946: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09085431694984436
+epoch 947: acc: on test datasets: 0.9259259259259259
+
+running loss on train datasets: 0.11601752042770386
+epoch 948: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10932577401399612
+epoch 949: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.10219933092594147
+epoch 950: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.09838862717151642
+epoch 951: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.08433505892753601
+epoch 952: acc: on test datasets: 0.9490740740740741
+
+running loss on train datasets: 0.11707578599452972
+epoch 953: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.0915864109992981
+epoch 954: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.09693651646375656
+epoch 955: acc: on test datasets: 0.9189814814814815
+
+running loss on train datasets: 0.08613279461860657
+epoch 956: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.11103823035955429
+epoch 957: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.0757942646741867
+epoch 958: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.08812891691923141
+epoch 959: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.0870928093791008
+epoch 960: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.16213291883468628
+epoch 961: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.20342503488063812
+epoch 962: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.0945577621459961
+epoch 963: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.10634087026119232
+epoch 964: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.08226897567510605
+epoch 965: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.07415084540843964
+epoch 966: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.08881990611553192
+epoch 967: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.09198342263698578
+epoch 968: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.10988794267177582
+epoch 969: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.13487350940704346
+epoch 970: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08848994970321655
+epoch 971: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.0836128443479538
+epoch 972: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.07140976190567017
+epoch 973: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.07748232781887054
+epoch 974: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.0924561396241188
+epoch 975: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.08219920843839645
+epoch 976: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.07952316850423813
+epoch 977: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.1105739176273346
+epoch 978: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.08133048564195633
+epoch 979: acc: on test datasets: 0.9212962962962963
+
+running loss on train datasets: 0.08352591097354889
+epoch 980: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.08127165585756302
+epoch 981: acc: on test datasets: 0.9282407407407407
+
+running loss on train datasets: 0.08019900321960449
+epoch 982: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.44626927375793457
+epoch 983: acc: on test datasets: 0.9467592592592593
+
+running loss on train datasets: 0.18509280681610107
+epoch 984: acc: on test datasets: 0.9236111111111112
+
+running loss on train datasets: 0.10332918167114258
+epoch 985: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09494082629680634
+epoch 986: acc: on test datasets: 0.9305555555555556
+
+running loss on train datasets: 0.11309827119112015
+epoch 987: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.08797180652618408
+epoch 988: acc: on test datasets: 0.9444444444444444
+
+running loss on train datasets: 0.0956278070807457
+epoch 989: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.08422920107841492
+epoch 990: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.07836852967739105
+epoch 991: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09268753230571747
+epoch 992: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.08620207756757736
+epoch 993: acc: on test datasets: 0.9375
+
+running loss on train datasets: 0.10081709921360016
+epoch 994: acc: on test datasets: 0.9398148148148148
+
+running loss on train datasets: 0.48006197810173035
+epoch 995: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.17772583663463593
+epoch 996: acc: on test datasets: 0.9421296296296297
+
+running loss on train datasets: 0.1263670176267624
+epoch 997: acc: on test datasets: 0.9351851851851852
+
+running loss on train datasets: 0.09179747104644775
+epoch 998: acc: on test datasets: 0.9328703703703703
+
+running loss on train datasets: 0.09911906719207764
+epoch 999: acc: on test datasets: 0.9305555555555556
+

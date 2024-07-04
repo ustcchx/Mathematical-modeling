@@ -1,0 +1,2 @@
+学习率,batch_size,num_epochs,激活函数,网络隐藏层个数,隐藏层每层神经元个数,在测试数据集上的准确率,在测试集上表现优异的模型对应的epoch,本次训练中在训练集上表现最优异的模型参数存入以下路径,每一个epoch损失展示,flag,username,timestamp
+0.0003,16,1000,ReLU,4,1024,0.9606481481481481,903,../checkpoints/checkpoint-0.pth,C:\Users\28577\Desktop\Mycode\数学建模\lab03\src\flagged\每一个epoch损失展示\7884a2a211029a678793a29713d883b4bb33c7e9\tmp2_nprpq_.png,,,2024-04-20 21:01:57.158325
